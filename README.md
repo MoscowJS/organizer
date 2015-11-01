@@ -69,10 +69,11 @@ for q&a). Three of them are selected from our waiting list and one can be
 suggested by the venue (main sponsor). If the venue doesn't have a
 speaker, we select all four from the waiting list.
 
-Our waiting list is [here][waiting-list]. Applications there are sorted by
-submition date. Those, that have not yet being scheduled, are highlighted
-in red. Authors of those proposals you'll need to contact. Starting from
-the oldest submitions.
+Our waiting list is [here][waiting-list] (you need to be an organizer to
+access the document). Applications there are sorted by submition date.
+Those, that have not yet being scheduled, are highlighted in red. Authors
+of those proposals you'll need to contact, starting from the oldest
+submitions.
 
 Please contact 3-4 persons from the waiting list and suggest to give a
 talk at the next event. In this letter please provide date and venue of
