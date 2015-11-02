@@ -11,7 +11,7 @@ How to organise a meetup.
 - [Communication with speakers](#communication-with-speakers)
   - [Selecting proposals](#selecting-proposals)
   - [Requesting information from speakers](#requesting-information-from-speakers)
-  - [Scheduling and conducting rehersals](#scheduling-and-conducting-rehersals)
+  - [Scheduling and conducting rehearsals](#scheduling-and-conducting-rehearsals)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,11 +27,11 @@ These are the main things, you'll have to manage as an organizer:
 
     - Selecting proposals
     - Requesting information about the speaker and the talk
-    - Scheduling and conducting rehersals
+    - Scheduling and conducting rehearsals
 
 * Communication with venues
 
-    - Scheduling the meetup and final on-site rehersal
+    - Scheduling the meetup and final on-site rehearsal
     - Arranging live video stream and filming talks
     - Food/drinks
 
@@ -85,7 +85,7 @@ information necessary to announce his or her talk. All the information
 required is listed in [Speaker's Manual][announcement-info].
 
 
-### Scheduling and conducting rehersals
+### Scheduling and conducting rehearsals
 
 ```js
 // work in progress
