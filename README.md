@@ -12,6 +12,12 @@ How to organise a meetup.
   - [Selecting proposals](#selecting-proposals)
   - [Requesting information from speakers](#requesting-information-from-speakers)
   - [Scheduling and conducting rehersals](#scheduling-and-conducting-rehersals)
+- [Communication with venues](#communication-with-venues)
+  - [How to reach out to potential host venues](#how-to-reach-out-to-potential-host-venues)
+  - [How can a host company help your meetup](#how-can-a-host-company-help-your-meetup)
+  - [What can you as a meetup offer your sponsors](#what-can-you-as-a-meetup-offer-your-sponsors)
+  - [Negotiations process](#negotiations-process)
+  - [IT companies that hosted MoscowJS](#it-companies-that-hosted-moscowjs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,15 +37,15 @@ These are the main things, you'll have to manage as an organizer:
 
 * Communication with venues
 
-    - Scheduling the meetup and final on-site rehersal
+    - Scheduling a meetup and final on-site rehersal
     - Arranging live video stream and filming talks
     - Food/drinks
 
 * Communication with attendees
 
-    - Announcing meetup via social media/mailing list/web site
+    - Announcing the meetup via social media/mailing list/web site
     - Answering questions from attendees via any channel
-    - Live-tweeting at the day of event
+    - Live-tweeting at the day of an event
     - Gathering feedback online after the meetup
     - Sharing videos from the meetup when those are done
 
@@ -90,9 +96,79 @@ required is listed in [Speaker's Manual][announcement-info].
 // work in progress
 ```
 
+## Communication with venues
+
+### How to reach out to potential host venues
+
+Two options:
+
+* Find a person who works there and is interested in a meetup you're
+  organizing. Ask this person to talk to people responsible for internal
+  and external events (usually HR).
+
+* If a recruiter from the target company reaches out *to you*, write him
+  back and suggest hosting a meetup. This worked really well for us.
+
+### How can a host company help your meetup
+
+It depends on a company. Most can provide:
+
+* Venue
+* Snacks
+* Video recording of the talks
+* Extra PR
+* Help on site
+
+Some can also do:
+
+* Swag (t-shirts, cups)
+* Cover travel expences for speakers
+
+### What can you as a meetup offer your sponsors
+
+* Recruiting possibilities:
+* Recognition amongst your audience
+* One slot booked for the speakers from the hosting company
+
+
+### Negotiations process
+
+Start negotiating with the potential hosting company as early as possible,
+but no latter than one month before the event.
+
+This is our [proposal to potential hosts][host-proposal] (in russian).
+Feel free to use it.
+
+### IT companies that hosted MoscowJS
+
+You'll find the list of venues we've used for MJS below. Please contact us
+at [team@moscowjs.com][team] if you want to get in touch with any of
+those.
+
+Venue               | Approx. Capacity  |
+------------------- | ----------------- |
+Yandex              | 400               |
+Mail.ru             | 450               |
+Rambler&Co          | 120               |
+Badoo               | 100               |
+tceh                | 250               |
+Dream Industries    | 300               |
+QIWI                | 250               |
+Artec3D             | 100               |
+Ostrovok            | 100               |
+------------------- | ----------------- |
+
+
 
 [site]: http://moscowjs.ru
+[fb]: https://www.facebook.com/groups/moscowjs
+[twitter]: https://twitter.com/moscowjs
+
 [speaker]: https://github.com/MoscowJS/speaker
 [announcement-info]: https://github.com/MoscowJS/speaker#details-about-your-talk
 
 [waiting-list]: https://docs.google.com/spreadsheets/d/1SnwpDWy_sMFnvychOF8wDjpXfZp--Jt6kB55yc7Vjgo/edit#gid=1066596365
+
+[team]: team@moscowjs.com
+[host-proposal]: https://github.com/MoscowJS/organizer/blob/master/host-proposal-ru.md
+[issues-newsletter]: https://github.com/MoscowJS/moscowjs.ru/issues?q=is%3Aissue+is%3Aopen+label%3Anewsletter
