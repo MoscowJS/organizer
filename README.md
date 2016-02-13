@@ -18,6 +18,8 @@ How to organise a meetup.
   - [What can you as a meetup offer your sponsors](#what-can-you-as-a-meetup-offer-your-sponsors)
   - [Negotiations process](#negotiations-process)
   - [IT companies that hosted MoscowJS](#it-companies-that-hosted-moscowjs)
+- [Communication with attendees](#communication-with-attendees)
+  - [Where to announce new events](#where-to-announce-new-events)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -159,6 +161,20 @@ Ostrovok            | 100               |
 ------------------- | ----------------- |
 
 
+## Communication with attendees
+
+### Where to announce new events
+
+We use these means of communication with the audience on the web:
+
+- Newsletter
+- [Site][site]
+- [FB group][fb]
+- Twitter [@moscowjs][twitter]
+
+We've recently started the initiative to support free IT meetups in Russia.
+If you would like to share your event with our audience, [let us
+know][issues-newsletter].
 
 [site]: http://moscowjs.ru
 [fb]: https://www.facebook.com/groups/moscowjs
