@@ -159,7 +159,6 @@ Dream Industries    | 300               |
 QIWI                | 250               |
 Artec3D             | 100               |
 Ostrovok            | 100               |
-------------------- | ----------------- |
 
 
 ## Communication with attendees
