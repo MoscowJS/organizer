@@ -11,7 +11,7 @@ How to organise a meetup.
 - [Communication with speakers](#communication-with-speakers)
   - [Selecting proposals](#selecting-proposals)
   - [Requesting information from speakers](#requesting-information-from-speakers)
-  - [Scheduling and conducting rehersals](#scheduling-and-conducting-rehersals)
+  - [Scheduling and conducting rehearsals](#scheduling-and-conducting-rehearsals)
 - [Communication with venues](#communication-with-venues)
   - [How to reach out to potential host venues](#how-to-reach-out-to-potential-host-venues)
   - [How can a host company help your meetup](#how-can-a-host-company-help-your-meetup)
@@ -20,6 +20,7 @@ How to organise a meetup.
   - [IT companies that hosted MoscowJS](#it-companies-that-hosted-moscowjs)
 - [Communication with attendees](#communication-with-attendees)
   - [Where to announce new events](#where-to-announce-new-events)
+  - [Gathering Feedback after the Event](#gathering-feedback-after-the-event)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -176,6 +177,15 @@ We've recently started the initiative to support free IT meetups in Russia.
 If you would like to share your event with our audience, [let us
 know][issues-newsletter].
 
+
+### Gathering feedback after the event
+
+Please copy and send [this form][feedback-form] to everyone registered for
+the event. Please make sure to change the names of the talks.
+
+After a couple of days this form was live, please share the results of the
+questionnaire with everyone in MoscowJS Speakers Group.
+
 [site]: http://moscowjs.ru
 [fb]: https://www.facebook.com/groups/moscowjs
 [twitter]: https://twitter.com/moscowjs
@@ -188,3 +198,4 @@ know][issues-newsletter].
 [team]: team@moscowjs.com
 [host-proposal]: https://github.com/MoscowJS/organizer/blob/master/host-proposal-ru.md
 [issues-newsletter]: https://github.com/MoscowJS/moscowjs.ru/issues?q=is%3Aissue+is%3Aopen+label%3Anewsletter
+[feedback-form]: http://goo.gl/forms/HyPyjSkVCt
